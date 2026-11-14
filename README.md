@@ -1,8 +1,5 @@
 # Fashion App
 
-**Course:** MTM4681 — Milestone Submission
-**Team:** 11
-
 Fashion App is a mobile application that helps users find clothing. The user takes a photo or uploads one from the gallery, and the app finds the most similar products in a catalog of online retailers, matching color and texture. Users can open a product in the retailer's store and save products to their favorites.
 
 ## Team
