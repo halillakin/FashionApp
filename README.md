@@ -43,6 +43,10 @@ Fashion App is a mobile application that helps users find clothing. The user tak
 └── screenshots/        (screens of the working prototype, supporting material)
 ```
 
+## AI Assistance
+
+The design documents, Figma frames and parts of the code were prepared with the help of Claude (Anthropic). The team reviewed and approved all content.
+
 ## Notes
 
 - A working Flutter prototype of the main flow already exists (login, photo selection, similar product results, product details, favorites). Screenshots are provided as supporting material. The milestone itself consists of the design and architecture documents listed above.
